@@ -21,7 +21,7 @@ const subjects = [
   { id: "cse", name: "CSE", icon: Code, description: "Computer Science Engineering" },
   { id: "it", name: "IT", icon: Cpu, description: "Information Technology" },
   { id: "ece", name: "ECE", icon: Zap, description: "Electronics & Communication" },
-  { id: "pyq", name: "PYQ_Electives_24", icon: BookOpen, description: "Previous Year Questions" },
+  { id: "pyq", name: "Electives (PYQ)", icon: BookOpen, description: "Previous Year Questions" },
   { id: "biotech", name: "BIOTECH", icon: FlaskConical, description: "Biotechnology" },
 ];
 

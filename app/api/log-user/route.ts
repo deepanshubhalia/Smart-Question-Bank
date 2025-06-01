@@ -1,4 +1,3 @@
-\
 import { NextRequest, NextResponse } from 'next/server';
 
 // Placeholder: Replace with your actual database client and connection logic
